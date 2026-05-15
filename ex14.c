@@ -2,7 +2,7 @@
  // Aluno: Lucas Ruan Messias Silva
  // Matricula: 171038
 
- Exercicio 13:
+ Exercicio 14:
 - Desenvolva um sistema de análise de crédito. O programa lê: renda mensal, valor da parcela e número de parcelas. 
 - Se a parcela for maior que 30% da renda, crédito negado.
 - Caso contrário, se o cliente tiver menos de 25 anos, o crédito é negado por "idade mínima".
